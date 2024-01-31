@@ -2,7 +2,7 @@
 
 <p align='center'>
 <img src="./figure/uncertainty_lm.png"  width="400" height="400" center-align="true">
-<div align="center"><b>Uncertainty of LM</b> from Dall E Creator</div>
+<div align="center"><b>Uncertainty of LM</b> from Dall E</div>
 </p>
 
 

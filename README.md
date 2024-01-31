@@ -13,3 +13,11 @@ We propose a novel Uncertainty-aware Reward Model (URM) to quantify the uncertai
 <img src="./figure/proxy_concept.png"  width="800" height="120" center-align="true">
 <div align="center"><b>Proxy Uncertainty</b></div>
 </p>
+
+<details>
+<summary>Curriculum Learning</summary>
+
+<p align='center'>
+<img src="./figure/curriculum_radar.png"  width="800" height="120" center-align="true">
+<div align="center"><b>Why Curriculum learning is important?</b></div>
+</p>

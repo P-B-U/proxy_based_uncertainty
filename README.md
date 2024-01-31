@@ -22,9 +22,9 @@ We propose a novel Uncertainty-aware Reward Model (URM) to quantify the uncertai
 <img src="./figure/curriculum_radar.png"  width="400" height="275" center-align="true">
 <div align="center"><b>Why Curriculum learning is important?</b></div>
 </p>
+</details>
 
 ## Citation
 ```
 TBA
-}
 ```

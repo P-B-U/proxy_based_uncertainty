@@ -1,7 +1,7 @@
 # Advancing Instruction Following in Language Models with a Proxy-Based Uncertainty Approach
 
 <p align='center'>
-<img src="./figure/uncertainty_lm.png"  width="400" height="400" center-align="true">
+<img src="./figure/preference_uncertainty_lm1.png"  width="400" height="400" center-align="true">
 <div align="center"><b>Uncertainty of LM</b> from <a href="https://openai.com/dall-e-3">DALL·E 3</a></div>
 </p>
 

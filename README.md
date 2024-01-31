@@ -1,4 +1,4 @@
-# Advancing Instruction Following in Language Models with a Proxy-Based Uncertainty Approach
+# Advancing Instruction Following in Language Models through Proxy-Based Uncertainty Estimation
 
 <p align='center'>
 <img src="./figure/preference_uncertainty_lm1.png"  width="400" height="400" center-align="true">

@@ -5,6 +5,8 @@
 <div align="center"><b>Uncertainty of LM</b> from Dall E</div>
 </p>
 
+----
+
 
 <p align='center'>
 <img src="./figure/proxy_concept.png"  width="800" height="120" center-align="true">

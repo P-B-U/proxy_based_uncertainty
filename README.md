@@ -2,7 +2,7 @@
 
 <p align='center'>
 <img src="./figure/uncertainty_lm.png"  width="400" height="400" center-align="true">
-<div align="center"><b>Uncertainty of LM</b> from DALL·E 3</div>
+<div align="center"><b>Uncertainty of LM</b> from <a href="https://openai.com/dall-e-3">DALL·E 3</a></div>
 </p>
 
 ----

@@ -16,6 +16,8 @@ def tintf(m=0, s=1, a=0.00001, b=0.99999, n=10000):
     x = torch.stack([x for i in range(m.shape[0])])
     y = f(x, m, s)
     result = (h / 2) * (2 * torch.sum(y, dim = 1) - y[:, 0] - y[:, n])
+    result[result>b] = b
+    result[result<a] = a
     return result
 
 # expectation of f
@@ -32,7 +34,9 @@ def ef(m=0, s=1, a=0.00001, b=0.99999, n=10000):
     leftover[idx] = 0
 
     y = x* fv
-    result = (h / 2) * (2 * torch.sum(y, dim = 1) - y[:, 0] - y[:, n]) + leftover
+    result = (h / 2) * (2 * torch.sum(y, dim = 1) - y[:, 0] - y[:, n]) + leftover * h
+    result[result>b] = b
+    result[result<a] = a
     return result
 
 # differential entropy of posterior f
@@ -51,7 +55,7 @@ def hfplus(ef_val, m=0, s=1, a=0.00001, b=0.99999, n=10000):
     leftover[idx] = 0
 
     y = -fv * logfv
-    result = (h / 2) * (2 * torch.sum(y, dim = 1) - y[:, 0] - y[:, n]) + leftover
+    result = (h / 2) * (2 * torch.sum(y, dim = 1) - y[:, 0] - y[:, n]) + leftover * h
     return result
 
 # Shannon entropy of Ef

@@ -1,1 +1,7 @@
-
+{
+  "alpaca_train": {
+    "file_name": "./alpaca_comparison.json",
+    "file_sha1": "656f418313544e22444fe20eead7754b17da452ae",
+    "ranking": true
+  }
+}

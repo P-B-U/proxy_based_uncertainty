@@ -1,4 +1,4 @@
-# Our repo is based on LLaMa-Factory: https://github.com/hiyouga/LLaMA-Factory
+### Our repo is based on [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory).
 
 Some datasets require confirmation before using them, so we recommend logging in with your Hugging Face account using these commands.
 

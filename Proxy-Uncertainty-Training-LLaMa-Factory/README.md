@@ -1,5 +1,5 @@
-### Our repo is based on [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory).
-#### We can adopt the same approach as outlined by the LLaMa-Factory.
+### Our project's code repository is developed based on the foundational principles and structure provided by the [LLaMa-Factory](https://github.com/hiyouga/LLaMA-Factory).
+#### This approach ensures we leverage their methodologies and insights, integrating them into our work to enhance functionality and efficiency. Therefor, we can adopt the same approach as outlined by the LLaMa-Factory.
 
 #### Supervised Fine-Tuning
 

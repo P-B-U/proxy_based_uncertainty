@@ -8,7 +8,7 @@
 
 ----
 
-We propose a novel Uncertainty-aware Reward Model (URM) to quantify the uncertainty of Language Models.
+We propose a novel Uncertainty-aware Reward Model (URM) to quantify the uncertainty of Language Models' generations.
 
 <p align='center'>
 <img src="./figure/proxy_concept.png"  width="800" height="120" center-align="true">

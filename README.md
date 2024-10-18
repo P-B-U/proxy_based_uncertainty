@@ -26,5 +26,19 @@ We propose a novel Uncertainty-aware Reward Model (URM) to quantify the uncertai
 
 ## Citation
 ```
-TBA
+
+@InProceedings{pmlr-v235-lee24z,
+  title = 	 {Improving Instruction Following in Language Models through Proxy-Based Uncertainty Estimation},
+  author =       {Lee, Joonho and Woo, Jae Oh and Seok, Juree and Hassanzadeh, Parisa and Jang, Wooseok and Son, Juyoun and Didari, Sima and Gutow, Baruch and Hao, Heng and Moon, Hankyu and Hu, Wenjun and Kwon, Yeong-Dae and Lee, Taehee and Min, Seungjai},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {27009--27036},
+  year = 	 {2024},
+  editor = 	 {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v235/main/assets/lee24z/lee24z.pdf},
+  url = 	 {https://proceedings.mlr.press/v235/lee24z.html},
+}
 ```
